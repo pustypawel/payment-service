@@ -1,0 +1,7 @@
+payments:
+  persistence:
+    storage-engine: csv
+    csv:
+      file-path: integration-test-storage.csv
+      clean-up-on-exit: true
+debug: true

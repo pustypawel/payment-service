@@ -1,0 +1,11 @@
+POST localhost:8080/api/payments
+Content-Type: application/json
+
+{
+  "money": {
+    "amount": 20.50,
+    "currency": "PLN"
+  },
+  "userId": "userId",
+  "targetBankAccountNumber": "12312313"
+}

@@ -1,0 +1,6 @@
+payments:
+  persistence:
+    storage-engine: csv
+    csv:
+      file-path: storage.csv
+      clean-up-on-exit: true

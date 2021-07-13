@@ -1,0 +1,8 @@
+{
+  "money": {
+    "amount": 40.50,
+    "currency": "PLN"
+  },
+  "userId": "updatedUserId",
+  "targetBankAccountNumber": "999999"
+}
